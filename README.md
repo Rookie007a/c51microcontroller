@@ -1,1 +1,2 @@
-# c51microcontroller
+# c51单片机来设计烟雾报警器、
+用中断系统来设计，并用proteus仿真文件来查看。
